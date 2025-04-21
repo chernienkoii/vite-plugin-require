@@ -95,7 +95,7 @@ ps： `translateType: "importMetaUrl"` Code is not deleted in mode。
 
 Only the following requirements can be implemented.
 
-detail see: https://github.com/wangzongming/vite-plugin-require/issues/28
+detail see: https://github.com/chernienkoii/vite-plugin-require/issues/28
 ```
 let imgUrl = process.env.NODE_ENV !== "development" ? require("../imgs/logo.png") : null;
 
@@ -142,7 +142,7 @@ export default App;
 ---
 ## Upgrade log
 
-https://github.com/wangzongming/vite-plugin-require/blob/master/version-log.md
+https://github.com/chernienkoii/vite-plugin-require/blob/master/version-log.md
 
 ---
 ## Other deeper subdirectories
