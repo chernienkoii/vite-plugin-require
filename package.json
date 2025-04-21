@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangzongming/vite-plugin-require.git"
+    "url": "git+https://github.com/chernienkoii/vite-plugin-require.git"
   },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,7 +40,7 @@
     "vite-plugin-require"
   ],
   "bugs": {
-    "url": "https://github.com/wangzongming/vite-plugin-require/issues"
+    "url": "https://github.com/chernienkoii/vite-plugin-require/issues"
   },
-  "homepage": "https://github.com/wangzongming/vite-plugin-require#readme"
+  "homepage": "https://github.com/chernienkoii/vite-plugin-require#readme"
 }

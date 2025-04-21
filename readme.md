@@ -1,6 +1,6 @@
-# vite-plugin-require [![npm](https://img.shields.io/npm/v/vite-plugin-require.svg)](https://www.npmjs.com/package/vite-plugin-require) [![npm](https://img.shields.io/npm/dm/vite-plugin-require.svg?style=flat)](https://www.npmjs.com/package/vite-plugin-require)
+# vite-plugin-require [![npm](https://img.shields.io/npm/v/vite-plugin-require.svg)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require) [![npm](https://img.shields.io/npm/dm/vite-plugin-require.svg?style=flat)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require)
 
-> can let vite projects to support `require` [vite-plugin-require](https://www.npmjs.com/package/vite-plugin-require)
+> can let vite projects to support `require` [vite-plugin-require](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require)
 
 Install and use to achieve painless support `require("xxx")`
 
@@ -10,17 +10,9 @@ Install and use to achieve painless support `require("xxx")`
 
 
 ---
--  [中文文档](https://github.com/wangzongming/vite-plugin-require/blob/master/readme-zh.md)
--  [English](https://github.com/wangzongming/vite-plugin-require)
+-  [English](https://github.com/chernienkoii/vite-plugin-require)
 ---
 
-## 其他作品
-
-硬件接入AI最简单、最低成本的方案： https://github.com/wangzongming/esp-ai
-
-## 交流群 
-
-QQ 交流群: 854445223
 
 ## Adaptive
 
@@ -28,12 +20,13 @@ QQ 交流群: 854445223
 - √ vite3
 - √ vite4
 - √ vite5
+- √ vite6
   
 ---
 ## Install
 
 ```
-npm i vite-plugin-require | yarn add vite-plugin-require
+npm i @chernienkoii/vite-plugin-require | yarn add @chernienkoii/vite-plugin-require
 ```
 
 
