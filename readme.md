@@ -35,7 +35,7 @@ npm i @chernienkoii/vite-plugin-require | yarn add @chernienkoii/vite-plugin-req
 
 ```js
 import vue from '@vitejs/plugin-vue'
-import vitePluginRequire from "vite-plugin-require";
+import vitePluginRequire from "@chernienkoii/vite-plugin-require";
 
 export default {
 	plugins: [
@@ -191,7 +191,7 @@ page.jsx
 ### 1、vitePluginRequire is not a function
 
 ```js
-import vitePluginRequire from "vite-plugin-require";
+import vitePluginRequire from "@chernienkoii/vite-plugin-require";
 
 export default {
 	plugins: [  
