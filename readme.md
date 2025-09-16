@@ -1,4 +1,4 @@
-# vite-plugin-require [![npm](https://img.shields.io/npm/v/vite-plugin-require.svg)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require) [![npm](https://img.shields.io/npm/dm/vite-plugin-require.svg?style=flat)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require)
+# vite-plugin-require [![npm](https://img.shields.io/npm/v/@chernienkoii/vite-plugin-require)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require) [![npm](https://img.shields.io/npm/dm/@chernienkoii/vite-plugin-require?style=flat)](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require)
 
 > can let vite projects to support `require` [vite-plugin-require](https://www.npmjs.com/package/@chernienkoii/vite-plugin-require)
 
