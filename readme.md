@@ -21,6 +21,7 @@ Install and use to achieve painless support `require("xxx")`
 - √ vite4
 - √ vite5
 - √ vite6
+- √ vite7
   
 ---
 ## Install

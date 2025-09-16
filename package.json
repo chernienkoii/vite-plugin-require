@@ -1,6 +1,6 @@
 {
   "name": "@chernienkoii/vite-plugin-require",
-  "version": "1.24.18",
+  "version": "1.24.19",
   "description": "can let vite projects to support require",
   "author": "wangzongming",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "build": "tsc -p ."
   },
   "peerDependencies": {
-    "vite": "^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0"
+    "vite": "^2.0.0 || ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0"
   },
   "dependencies": {
     "@babel/generator": "^7.24.5",
